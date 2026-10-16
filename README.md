@@ -115,10 +115,4 @@ Potential enhancements include:
 - Improved mobile experience and offline synchronization.
 - Receipt uploads and automated tax reminders.
 
-## Academic Project
-
-Developed as a software project for the **Implementation and Management of Software Engineering (6IMSOFTENG)** course at **Holy Angel University**, October 2025.
-
----
-
 **EasyBooks — Simplifying bookkeeping through technology.**
